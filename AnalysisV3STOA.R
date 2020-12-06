@@ -4,6 +4,8 @@
 # lewis.bartlett@uga.edu
 # Data: Williams Lab, Auburn University
 
+# GitDir: https://github.com/LBartlett/VRTT-OA-AU-ALT.git
+
 #load packages
 library('lme4')
 library('afex')
